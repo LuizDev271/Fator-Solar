@@ -651,7 +651,7 @@ footer > p > a:hover{
     }
 }
 
-@media screen and (min-width: 609px) and (max-width: 872px){
+@media screen and (min-width: 609px) and (max-width: 873px){
  
     header{
         padding-left: 10px;
@@ -759,7 +759,7 @@ footer > p > a:hover{
     }
 }
 
-@media screen and (min-width: 873px) and (max-width: 1052px){
+@media screen and (min-width: 874px) and (max-width: 1052px){
 
     section#numero-projetos > div#numeros > div.num > h2{
         font-size: 40px;
