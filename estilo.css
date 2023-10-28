@@ -594,15 +594,16 @@ footer > p > a:hover{
         height: 150px;
         padding-top: 0px;
         padding-left: 10px;
+        padding-right: 50px;
     }
     section#func > article#prim > div.paragrafos > div#check3{
         height: 190px;
     }
     section#func > article#prim > div.paragrafos > div.parag > p{
-        font-size: 20px;
+        font-size: 23px;
     }
     strong.verde{
-        font-size: 20px;
+        font-size: 23px;
     }
     section#func > article#prim > div.paragrafos > div.parag > img{
         padding: 0px;
